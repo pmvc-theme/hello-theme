@@ -1,0 +1,18 @@
+{
+    "name": "pmvc-theme/hello-theme",
+    "description": "Hello World Theme for PMVC Demo",
+    "type": "library",
+    "homepage": "https://github.com/pmvc-theme/hello-theme",
+    "keywords": ["hello", "theme", "pmvc"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hill",
+            "email": "hill@kimo.com"
+        }
+    ],
+    "require": {
+        "pmvc-plugin/view-html": "*"
+    },
+    "minimum-stability": "dev"
+}
