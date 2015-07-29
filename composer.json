@@ -1,8 +1,7 @@
 {
-    "name": "pmvc-theme/hello_theme",
+    "name": "pmvc-theme/hello_html",
     "description": "Hello World Theme for PMVC Demo",
     "type": "library",
-    "homepage": "https://github.com/pmvc-theme/hello_theme",
     "keywords": ["hello", "theme", "pmvc"],
     "license": "MIT",
     "authors": [
