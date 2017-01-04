@@ -20,6 +20,6 @@ class ViewHtmlTest extends PHPUnit_Framework_TestCase
                 'hello'
             ]
         );
-        $this->assertEquals(realpath($helloPath),realpath(__DIR__.'/../hello.html'));
+        $this->assertEquals(realpath(__DIR__.'/../hello.html'), realpath($helloPath));
     }
 }
